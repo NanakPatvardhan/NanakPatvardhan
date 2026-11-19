@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Nanak 👋
 
-<!--
-**NanakPatvardhan/NanakPatvardhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-semester BSc Computer Science student focused on frontend and full-stack web development.
 
-Here are some ideas to get you started:
+- 🔭 Recently built a full-stack Pinterest-inspired application.
+- 🌱 Currently strengthening my React, TypeScript, backend, and database skills.
+- 🎯 Looking for software development internships in frontend, React, or full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React, React Router  
+**Backend:** Node.js, Express, REST APIs  
+**Database:** PostgreSQL, SQL  
+**Tools:** Git, GitHub, Postman
+
+## Featured Project
+
+### Pinterest Clone
+
+A full-stack Pinterest-inspired application featuring user authentication, pin management, search, category filtering, and user-specific saved collections.
+
+🔗 [View Pinterest Clone](https://github.com/NanakPatvardhan/Pinterest-Clone)
